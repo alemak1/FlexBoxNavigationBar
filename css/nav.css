@@ -12,6 +12,16 @@
 	.nav{
 		margin-top: 1.5em;
 	}
+	
+	.nav a{
+		display: block;	
+		color: #797e83;
+		font-size: 1.125em;
+		font-weight: 300;
+		text-align: center;
+		padding: .4em;
+		border-bottom: 1px solid #ebecec;
+	}
 
 
 /* --------------------------
