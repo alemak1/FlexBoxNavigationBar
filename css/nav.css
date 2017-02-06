@@ -1,7 +1,17 @@
 /* --------------------------
   Main Styles
 --------------------------- */
+	.main-header{
+		padding-top: 2em;
+	}
 
+	.site-logo{
+		width: 110px;
+	}
+
+	.nav{
+		margin-top: 1.5em;
+	}
 
 
 /* --------------------------
