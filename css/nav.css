@@ -41,6 +41,25 @@
 --------------------------- */
 
 
+@media (min-width: 1025px){
+	.main-header{
+		flex-direction: row;
+	}
+
+	.site-logo{
+		margin-right: auto;
+	}
+
+	.nav{
+		margin-top: 0;
+	}
+
+	.nav li {
+		margin-left: .65em;
+		margin-right: .65em;
+		align-self:center;
+	}
+}
 
 
 @media (min-width: 769px){
