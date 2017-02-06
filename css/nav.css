@@ -1,11 +1,19 @@
 /* --------------------------
   Main Styles
 --------------------------- */
+
+
+	.main-header, .nav{
+		display: flex;
+		flex-direction: column;
+	}
+
 	.main-header{
 		padding-top: 2em;
 	}
 
 	.site-logo{
+		align-self:center;
 		width: 110px;
 	}
 
